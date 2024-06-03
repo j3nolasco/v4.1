@@ -10,7 +10,7 @@ import index from 'index.php'
 export default {
   name: 'App',
   components: {
-    index
+    HelloWorld
   }
 }
 </script>
