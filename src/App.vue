@@ -10,7 +10,7 @@ import Work from './components/index.php'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
     Work
   }
 }
