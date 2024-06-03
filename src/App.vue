@@ -5,7 +5,6 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import index from './index.php'
 
 export default {
   name: 'App',
