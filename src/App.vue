@@ -4,12 +4,13 @@
 </template>
 
 <script>
-import Work from './components/index.php'
+import HelloWorld from './components/HelloWorld.vue'
+
 
 export default {
   name: 'App',
   components: {
-    Work
+    HelloWorld
   }
 }
 </script>
