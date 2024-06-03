@@ -333,7 +333,7 @@ $courseListing = $courseListing->courses;
 export default {
   name: 'index',
   props: {
-    msg: String
+    
   }
 }
 </script>
